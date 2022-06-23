@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>测试</title>
+    <link href="/2022/06/24/%E6%B5%8B%E8%AF%95/"/>
+    <url>/2022/06/24/%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是大标题"><a href="#这是大标题" class="headerlink" title="这是大标题"></a>这是大标题</h1><h2 id="这是中标题"><a href="#这是中标题" class="headerlink" title="这是中标题"></a>这是中标题</h2><h3 id="这是小标题"><a href="#这是小标题" class="headerlink" title="这是小标题"></a>这是小标题</h3><ul><li>列表<br>  a 小列表</li></ul><hr><hr><p><a href="baidu.com">百度</a><br><em>斜体</em><br><strong>加粗</strong></p><!DOCTYPE html><heml lang="en">    <head>        <title>这是一个标题</title>    </head>    <body>        <h1>巴拉拉</h1>        <p>吧啦吧啦吧啦吧啦</p>    </body></html>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/06/23/hello-world/"/>
     <url>/2022/06/23/hello-world/</url>
